@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://fabianferno.wordpress.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=super.skywalker%20stats" />
+</a> <br>
+<a href="https://fabianferno.wordpress.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&theme=dark" />
+</a>
 
 <!--
 **fabianferno/fabianferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
