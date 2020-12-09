@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hello there 👋
+
+<br>
+
 <a href="https://fabianferno.wordpress.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=super.skywalker%20stats" />
-</a> <br>
+</a> <br><br>
 <a href="https://fabianferno.wordpress.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&theme=dark" />
 </a>
