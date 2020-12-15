@@ -1,7 +1,19 @@
-# Hello there 👋
+# <img src="https://media4.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" alt="hello">
+
+# <span><img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> </span>
 
 <br>
+<span >
+<img height="70px" src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python">
+<img height="70px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap">
+<img height="70px" src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3">
+<img height="70px" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5">
+<img height="70px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="js">
+<img height="70px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="php">
+<img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
+</span>
 
+<br>
 <a href="https://fabianferno.wordpress.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=super.skywalker%20stats" />
 </a> <br><br>
@@ -11,7 +23,7 @@
 
 <!--
 **fabianferno/fabianferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://media2.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e47aczec36hwropnwj8hldga7yqikvjt8d9pw2xxi3t&rid=giphy.gif" alt="matrix">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
