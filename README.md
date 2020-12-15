@@ -17,8 +17,11 @@
   <img height="70px" src="https://i.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.webp" alt="mysql">
   <img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
   <img height="70px" src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" alt="linux">
+
+</span>
   <br>
-    <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator">
+<span>    
+ <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator">
   <img height="70px" src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" alt="psd">
   <img height="70px" src="https://media3.giphy.com/media/5C0euddWj9dccbOz1H/giphy.gif" alt="premiere">
   <img height="70px" src="https://media1.giphy.com/media/YWaWOJ7v6RfVRiZTYf/source.gif" alt="ae">
