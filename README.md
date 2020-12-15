@@ -18,7 +18,7 @@
 
 <br><br>
 <a href="https://fabianferno.wordpress.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=super.skywalker%20stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=fabianferno" />
 </a> <br><br>
 # <span><img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> </span>
 
