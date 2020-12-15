@@ -6,13 +6,14 @@
 <br>
 <br>
 <span >
-<img height="70px" src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python">
-<img height="70px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap">
-<img height="70px" src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3">
-<img height="70px" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5">
-<img height="70px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="js">
-<img height="70px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="php">
-<img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
+  <img height="70px" src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" alt="psd">
+  <img height="70px" src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python">
+  <img height="70px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap">
+  <img height="70px" src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3">
+  <img height="70px" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5">
+  <img height="70px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="js">
+  <img height="70px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="php">
+  <img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
 <p>*I couldn't find any more giphys...</p>
 </span>
 
