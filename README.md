@@ -20,6 +20,9 @@
 
 </span>
   <br>
+  
+  ----
+  
 <span>    
  <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator">
   <img height="70px" src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" alt="psd">
