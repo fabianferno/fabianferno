@@ -6,7 +6,9 @@
 <br>
 <br>
 <span >
-  <img height="70px" src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" alt="psd">
+ <img height="70px" src="https://media4.giphy.com/media/TsDzLNYgWdL02Dgxcr/giphy.gif" alt="illustrator">
+  <img height="70px" src="https://media1.giphy.com/media/S8BdQDfrGYMMwAX1Od/giphy.gif" alt="premiere">
+  <img height="70px" src="https://media0.giphy.com/media/X7bxYuDe5SWlVOiaIl/giphy.gif" alt="psd">
   <img height="70px" src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python">
   <img height="70px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap">
   <img height="70px" src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3">
