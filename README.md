@@ -2,8 +2,8 @@
  # <img src="https://media2.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif?cid=ecf05e47rnohm9mj00tnodb1lurf1sjy9javx56lunqa39sw&rid=giphy.gif"  alt="hello">
  <img src="https://en.bloggif.com/tmp/96babe67ee9989d831fd6eaeb6f510e0/text.gif?1608067751" >
 </center>
-# <span><img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> </span>
 
+<br>
 <br>
 <span >
 <img height="70px" src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python">
@@ -15,10 +15,11 @@
 <img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
 </span>
 
-<br>
+<br><br>
 <a href="https://fabianferno.wordpress.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=super.skywalker%20stats" />
 </a> <br><br>
+# <span><img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> </span>
 
 <!--
 **fabianferno/fabianferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
