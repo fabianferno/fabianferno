@@ -13,6 +13,7 @@
 <img height="70px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="js">
 <img height="70px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="php">
 <img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
+<p>I couldn't find any more giphys...</p>
 </span>
 
 <br><br>
