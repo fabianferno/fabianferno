@@ -34,7 +34,7 @@
   <img height="70px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="php">
   <img height="70px" src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python">
   <img height="70px" src="https://i.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.webp" alt="mysql">
-  <img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
+  <img height="70px" src="https://i.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.webp" alt="iot">
   <img height="70px" src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" alt="linux">
 </span>
 <br>
