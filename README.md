@@ -9,7 +9,7 @@
 
 <br>
 <br>
-## These are some stuffs I've been working on...
+<h2>These are some stuffs I've been working on...</h2>
   
 <span> 
   <p> Design. </p>
