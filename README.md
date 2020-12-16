@@ -11,7 +11,11 @@
  <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator">
   <img height="70px" src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" alt="psd">
   <img height="70px" src="https://media3.giphy.com/media/5C0euddWj9dccbOz1H/giphy.gif" alt="premiere">
-  <img height="70px" src="https://media1.giphy.com/media/YWaWOJ7v6RfVRiZTYf/source.gif" alt="ae">
+  <img height="70px" src="https://media1.giphy.com/media/YWaWOJ7v6RfVRiZTYf/source.gif" alt="ae">&nbsp;&nbsp;
+
+   <img height="60px" src="https://i.giphy.com/media/Zsc3kzpEcWJoVBu1Ff/giphy.webp" alt="dimensions"> &nbsp;
+    <img height="60px" src="https://media2.giphy.com/media/TjP5ll0BvBstkP7l8O/giphy.gif" alt="indesign"> &nbsp;
+      <img height="80px" src="https://i.giphy.com/media/XfgJ8PF6cEklctTSbk/giphy.webp" alt="sketchup">
 </span>
 
   <br>
