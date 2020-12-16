@@ -1,27 +1,31 @@
 <center>
- <img src="https://media2.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif?cid=ecf05e47rnohm9mj00tnodb1lurf1sjy9javx56lunqa39sw&rid=giphy.gif"  alt="hello">
+<span>  
+ <img src="https://i.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.webp"  alt="hello"> 
+ <img src="https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp" height="320px"  alt="anime">
+ </span>
+ <br>
  <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" >
 </center>
 
 <br>
 <br>
+## These are some stuffs I've been working on...
   
 <span> 
- <p> Design. </p>
- <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator">
+  <p> Design. </p>
+  <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator">
   <img height="70px" src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" alt="psd">
   <img height="70px" src="https://media3.giphy.com/media/5C0euddWj9dccbOz1H/giphy.gif" alt="premiere">
   <img height="70px" src="https://media1.giphy.com/media/YWaWOJ7v6RfVRiZTYf/source.gif" alt="ae"> &nbsp;&nbsp;
-   <img height="60px" src="https://i.giphy.com/media/Zsc3kzpEcWJoVBu1Ff/giphy.webp" alt="dimensions"> &nbsp;
-    <img height="60px" src="https://media2.giphy.com/media/TjP5ll0BvBstkP7l8O/giphy.gif" alt="indesign"> &nbsp;
-      <img height="80px" src="https://i.giphy.com/media/XfgJ8PF6cEklctTSbk/giphy.webp" alt="sketchup">
+  <img height="60px" src="https://i.giphy.com/media/Zsc3kzpEcWJoVBu1Ff/giphy.webp" alt="dimensions"> &nbsp;
+  <img height="60px" src="https://media2.giphy.com/media/TjP5ll0BvBstkP7l8O/giphy.gif" alt="indesign"> &nbsp;
+  <img height="80px" src="https://i.giphy.com/media/XfgJ8PF6cEklctTSbk/giphy.webp" alt="sketchup">
 </span>
 
   <br>
   
   ----
 <span >
-
  <p> Develop. </p>
   <img height="70px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap">
   <img height="70px" src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3">
@@ -32,7 +36,6 @@
   <img height="70px" src="https://i.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.webp" alt="mysql">
   <img height="70px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode">
   <img height="70px" src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" alt="linux">
-
 </span>
 <br>
 <br>
