@@ -38,13 +38,12 @@
     <img height="70px" src="https://i.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.webp" alt="iot">
 </span>
 <br>
-<br>
 
- <span><img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> </span>
 <br><br>
 <a href="https://fabianferno.wordpress.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=fabianferno" /> <br/> <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=langLangs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=langLangs"/>     <br/> <br/>
+  <img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> 
 </a> <br><br>
 
 
