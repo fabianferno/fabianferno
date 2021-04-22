@@ -42,7 +42,7 @@
 <br><br>
 <a href="https://fabianferno.wordpress.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=fabianferno" /> <br/> <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=langLangs"/>     <br/> <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=Top%20Languages"/>     <br/> <br/>
   <img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> 
 </a> <br><br>
 
