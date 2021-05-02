@@ -19,7 +19,7 @@
   <img height="70px" src="https://media1.giphy.com/media/YWaWOJ7v6RfVRiZTYf/source.gif" alt="ae"> &nbsp;&nbsp;
   <img height="60px" src="https://i.giphy.com/media/Zsc3kzpEcWJoVBu1Ff/giphy.webp" alt="dimensions"> &nbsp;
   <img height="60px" src="https://media2.giphy.com/media/TjP5ll0BvBstkP7l8O/giphy.gif" alt="indesign"> &nbsp;
-  <img height="80px" src="https://i.giphy.com/media/XfgJ8PF6cEklctTSbk/giphy.webp" alt="sketchup">
+  <img height="80px" src="https://media0.giphy.com/media/KyAeUy1E2ZTOydOWVU/giphy.gif?cid=ecf05e4714bgind5v1ldywgt7oqu4jc47fatnz9imv6j4fn8&rid=giphy.gif&ct=s" alt="sketchup">
 </span>
 
   <br>
