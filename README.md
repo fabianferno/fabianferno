@@ -46,6 +46,8 @@
   <img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> 
 </a> <br><br>
 
+[![GitHub Followers](https://img.shields.io/github/followers/fabianferno?style=for-the-badge)](https://github.com/fabianferno)
+
 
 <!--
 **fabianferno/fabianferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
