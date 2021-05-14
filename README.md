@@ -45,9 +45,9 @@
   <br>
   
   ------
-  
+  <!--
 [![Fabian Ferno's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabianferno&theme=react-dark&area=true&hide_border=true)](https://www.fabianferno.tech)
-
+-->
 <br><br>
 <a href="https://www.fabianferno.tech">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=fabianferno" /> 
