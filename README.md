@@ -1,15 +1,17 @@
 <center>
-<span>  
- <img src="https://i.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.webp" href="https://fabianferno.wordpress.com/" alt="hello"> 
- <img src="https://media1.giphy.com/media/SXryiDkSe7ozEHUFqX/giphy.gif?cid=ecf05e4743c56beybm2l1490zwq00t0s6txtv4tghd47v3k3&rid=giphy.gif&ct=s" height="320px"  alt="anime">
+ <span style="display:flex">  
+ <!--<img src="https://i.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.webp">-->
+ <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" width="50%" href="https://fabianferno.wordpress.com/" alt="hello">
+ <img src="https://media1.giphy.com/media/SXryiDkSe7ozEHUFqX/giphy.gif?cid=ecf05e4743c56beybm2l1490zwq00t0s6txtv4tghd47v3k3&rid=giphy.gif&ct=s"  width="30%"  alt="anime">
  </span>
- <br><br>
- <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" >
 </center>
+<h2> Developer | Designer | Freelancer </h2>
 
 <br>
-<br>
-<h2>These are some stuffs I've been working on...</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=highcontrast)](https://git.io/streak-stats)
+<br><br>
+<h2>What I do?</h2>
   
 <span> 
   <p> Design. </p>
@@ -24,7 +26,8 @@
 
   <br>
   
-  ----
+  ------
+  
 <span >
  <p> Develop. </p>
     <img height="70px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap">
@@ -37,33 +40,13 @@
     <img height="70px" src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" alt="linux">
     <img height="70px" src="https://i.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.webp" alt="iot">
 </span>
-<br>
-
 <br><br>
-<a href="https://fabianferno.wordpress.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=fabianferno" /> <br/> <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=Top%20Languages"/>     <br/> <br/>
-  <img src="https://media1.giphy.com/media/3pzLJifxEvLpe/giphy.gif" alt="matrix"> 
-</a> <br><br>
+<a href="https://www.fabianferno.tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&theme=dark&count_private=true&custom_title=fabianferno" /> 
+</a> 
+<br><br>
 
-[![GitHub Followers](https://img.shields.io/github/followers/fabianferno?style=for-the-badge)](https://github.com/fabianferno)
-
-
-<!--
-**fabianferno/fabianferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://media2.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e47aczec36hwropnwj8hldga7yqikvjt8d9pw2xxi3t&rid=giphy.gif" alt="matrix">
-Here are some ideas to get you started:
-<a href="https://fabianferno.wordpress.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianferno&theme=dark" />
-</a>
+[![Fabian Ferno's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabianferno&theme=xcode&area=true&hide_border=true)](https://www.fabianferno.tech)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
