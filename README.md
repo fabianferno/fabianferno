@@ -1,7 +1,7 @@
 <center>
 <span>  
  <img src="https://i.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.webp" href="https://fabianferno.wordpress.com/" alt="hello"> 
- <img src="https://media4.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif?cid=ecf05e47pu2mqq4282jai6kc02yzrxhffxifk6qse0gxs56o&rid=giphy.gif" height="320px"  alt="anime">
+ <img src="https://media1.giphy.com/media/SXryiDkSe7ozEHUFqX/giphy.gif?cid=ecf05e4743c56beybm2l1490zwq00t0s6txtv4tghd47v3k3&rid=giphy.gif&ct=s" height="320px"  alt="anime">
  </span>
  <br><br>
  <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" >
