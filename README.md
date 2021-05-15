@@ -15,11 +15,12 @@
   
 <span> 
   <p> Design. </p>
-  <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator">
-  <img height="70px" src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" alt="psd">
   <img height="70px" src="https://media3.giphy.com/media/5C0euddWj9dccbOz1H/giphy.gif" alt="premiere">
-  <img height="70px" src="https://media1.giphy.com/media/YWaWOJ7v6RfVRiZTYf/source.gif" alt="ae"> &nbsp;&nbsp;
-  <img height="60px" src="https://i.giphy.com/media/Zsc3kzpEcWJoVBu1Ff/giphy.webp" alt="dimensions"> &nbsp;
+  <img height="70px" src="https://media1.giphy.com/media/YWaWOJ7v6RfVRiZTYf/source.gif" alt="ae">
+  <img height="70px" src="https://i.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.webp" alt="illustrator"> &nbsp;&nbsp;
+  <img height="60px" src="https://media2.giphy.com/media/Z0xMilFtbVKXznxgWz/giphy.gif?cid=790b7611824e6c5a1c005afef6f04914003ce798e17c7d73&rid=giphy.gif&ct=s" alt="psd">
+  <img height="60px" src="https://i.giphy.com/media/Zsc3kzpEcWJoVBu1Ff/giphy.webp" alt="dimensions">
+  <img height="60px" src="https://media1.giphy.com/media/pBmTodPtrvejJqrkni/giphy.gif?cid=ecf05e47wl1blw619ipl8lt8xjbfs3askp1inb8ctleio8z9&rid=giphy.gif&ct=s" alt="dimensions"> &nbsp;
   <img height="60px" src="https://media2.giphy.com/media/TjP5ll0BvBstkP7l8O/giphy.gif" alt="indesign"> &nbsp;
   <img height="80px" src="https://media0.giphy.com/media/KyAeUy1E2ZTOydOWVU/giphy.gif?cid=ecf05e4714bgind5v1ldywgt7oqu4jc47fatnz9imv6j4fn8&rid=giphy.gif&ct=s" alt="sketchup">
 </span>
