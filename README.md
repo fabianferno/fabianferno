@@ -13,33 +13,50 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=blux&&background=0d1117&border=444" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="165">
 </p>
-<br><br>
 
 ----------------
 
 ### Languages
-> HTML, Dart, Java, php, C#, Python, Embedded C, JavaScript - ES6, CSS3/SASS
 
-----------------
+`HTML`  `Dart`  `Java`  `php`  `C#`  `Python`  `Embedded C`  `JavaScript - ES6`  `CSS3/SASS`
+
+
+
+
+<br>
 
 ### Databases
-> Micrsoft SQL, MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore
 
-----------------
+`Micrsoft SQL`  `MariaDB`  `MySQL`  `PostgreSQL`  `MongoDB`  `SQLite`  `Firestore`
+
+
+
+
+<br>
 
 ### Frameworks and Libraries
-> ReactJS, ExpressJS, Python, Flask, Axios, Bootstrap, jQuery, ASP.NET, styled-components, Material UI, Tailwind UI, discord.py, Framer Motion, ThreeJS, Wordpress
 
-----------------
+`ReactJS`  `ExpressJS`  `Python`  `Flask`  `Axios`  `Bootstrap`  `jQuery`  `ASP.NET`  `styled-components`  `Material UI`  `Tailwind UI`  `discord.py`  `Framer Motion`  `ThreeJS`  `Wordpress`
+
+
+
+
+<br>
 
 ### Tools
-> Git, Postman, repl.it, Cloudflare, IFTTT, jQuery, npm, GitHub, cPanel, Apache, SSH, nginx, ArduinoIDE, Heroku, Vercel, Github Actions, Linux, Supabase, Firebase, Selenium
 
-----------------
+`Git`  `Postman`  `repl.it`  `Cloudflare`  `IFTTT`  `jQuery`  `npm`  `GitHub`  `cPanel`  `Apache`  `SSH`  `nginx`  `ArduinoIDE`  `Heroku`  `Vercel`  `Github Actions`  `Linux`  `Supabase`  `Firebase`  `Selenium`
+
+
+
+
+<br>
 
 ### Design
-> Wireframing, Photoshop, Illustrator, InDesign, Premiere Pro, Adobe XD, Filmora, After Effects, Cinema4D, Sketchup3D, Unity3D, Unreal Engine, Thearender
 
-------
+`Wireframing`  `Photoshop`  `Illustrator`  `InDesign`  `Premiere Pro`  `Adobe XD`  `Filmora`  `After Effects`  `Cinema4D`  `Sketchup3D`  `Unity3D`  `Unreal Engine`  `Thearender`
+
+
+
 
 <br>
