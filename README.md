@@ -15,48 +15,31 @@
 </p>
 
 ----------------
-
 ### Languages
 
 `HTML`  `Dart`  `Java`  `php`  `C#`  `Python`  `Embedded C`  `JavaScript - ES6`  `CSS3/SASS`
 
-
-
-
-<br>
+----------------
 
 ### Databases
 
 `Micrsoft SQL`  `MariaDB`  `MySQL`  `PostgreSQL`  `MongoDB`  `SQLite`  `Firestore`
 
-
-
-
-<br>
+----------------
 
 ### Frameworks and Libraries
 
 `ReactJS`  `ExpressJS`  `Python`  `Flask`  `Axios`  `Bootstrap`  `jQuery`  `ASP.NET`  `styled-components`  `Material UI`  `Tailwind UI`  `discord.py`  `Framer Motion`  `ThreeJS`  `Wordpress`
 
-
-
-
-<br>
+----------------
 
 ### Tools
 
 `Git`  `Postman`  `repl.it`  `Cloudflare`  `IFTTT`  `jQuery`  `npm`  `GitHub`  `cPanel`  `Apache`  `SSH`  `nginx`  `ArduinoIDE`  `Heroku`  `Vercel`  `Github Actions`  `Linux`  `Supabase`  `Firebase`  `Selenium`
 
-
-
-
-<br>
+----------------
 
 ### Design
 
 `Wireframing`  `Photoshop`  `Illustrator`  `InDesign`  `Premiere Pro`  `Adobe XD`  `Filmora`  `After Effects`  `Cinema4D`  `Sketchup3D`  `Unity3D`  `Unreal Engine`  `Thearender`
 
-
-
-
-<br>
