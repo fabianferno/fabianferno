@@ -35,7 +35,7 @@
 
 ### Tools
 
-`Git`  `Postman`  `repl.it`  `Cloudflare`  `IFTTT`  `jQuery`  `npm`  `GitHub`  `cPanel`  `Apache`  `SSH`  `nginx`  `ArduinoIDE`  `Heroku`  `Vercel`  `Github Actions`  `Ubuntu`  `Kali Linux`  `Supabase`  `Firebase`  `Selenium`  `Supabase`  `MicroPython`  `Windows Subsystem Linux`
+`Git`  `Postman`  `repl.it`  `Cloudflare`  `IFTTT`  `jQuery`  `npm`  `GitHub`  `cPanel`  `Apache`  `SSH`  `nginx`  `ArduinoIDE`  `Heroku`  `Vercel`  `Github Actions`  `Ubuntu`  `Kali Linux`  `Supabase`  `Firebase`  `Selenium`  `Supabase`  `MicroPython`  `WSL`
 
 ----------------
 
