@@ -29,7 +29,7 @@
 
 ### Frameworks and Libraries
 
-`ReactJS`  `ExpressJS`  `Python`  `Flask`  `Axios`  `Bootstrap`  `jQuery`  `ASP.NET`  `styled-components`  `Material UI`  `Tailwind UI`  `discord.py`  `Framer Motion`  `ThreeJS`  `Wordpress`
+`ReactJS`  `ExpressJS`  `Flask`  `Axios`  `Bootstrap`  `jQuery`  `ASP.NET`  `styled-components`  `Material UI`  `Tailwind UI`  `discord.py`  `Framer Motion`  `ThreeJS`  `Wordpress`
 
 ----------------
 
