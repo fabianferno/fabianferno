@@ -2,7 +2,7 @@
  <span style="display:flex">  
  <!--<img src="https://i.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.webp">-->
  <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" width="50%" href="https://fabianferno.wordpress.com/" alt="hello">
- <img src="https://media1.giphy.com/media/SXryiDkSe7ozEHUFqX/giphy.gif?cid=ecf05e4743c56beybm2l1490zwq00t0s6txtv4tghd47v3k3&rid=giphy.gif&ct=s"  width="30%"  alt="anime">
+ <img src="https://user-images.githubusercontent.com/57835412/140022820-7325e0f3-85bd-4210-8ff2-51adfd606e46.gif"  width="20%"  alt="anime">
  </span>
 </center>
 <h2> Developer | Designer | Freelancer </h2>
