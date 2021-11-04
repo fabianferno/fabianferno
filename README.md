@@ -1,5 +1,5 @@
 <center>
-    <span style="display:inline;">  
+    <span style="display:flex;">  
         <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" width="50%" href="https://fabianferno.wordpress.com/" alt="hello">
         <img src="https://user-images.githubusercontent.com/57835412/140022820-7325e0f3-85bd-4210-8ff2-51adfd606e46.gif"  width="20%"  alt="anime">
     </span>
@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="left">
+<p style="display:flex;" align="left">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=blux&&background=0d1117&border=444" height="165">
     <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="165">
 </p>
