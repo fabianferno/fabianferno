@@ -4,7 +4,7 @@
         <img src="https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif"  width="20%"  alt="anime">
     </span>
 </center>
-<h2> Developer | Designer | Freelancer </h2>
+<h2>Designer ⚡&nbsp;&nbsp;|&nbsp;&nbsp;&lt;Developer 🐱‍👤 /&gt;&nbsp;&nbsp;|&nbsp;&nbsp;Open for Freelance 🧑‍💼☕ </h2>
 
 <br>
 
