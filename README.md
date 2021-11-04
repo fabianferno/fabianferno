@@ -1,7 +1,7 @@
 <center>
     <span style="display:flex;">  
         <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" width="50%" href="https://fabianferno.wordpress.com/" alt="hello">
-        <img src="https://user-images.githubusercontent.com/57835412/140022820-7325e0f3-85bd-4210-8ff2-51adfd606e46.gif"  width="20%"  alt="anime">
+        <img src="https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif"  width="20%"  alt="anime">
     </span>
 </center>
 <h2> Developer | Designer | Freelancer </h2>
