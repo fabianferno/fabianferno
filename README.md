@@ -1,10 +1,10 @@
 <center>
     <span style="display:flex;">  
-        <img src="https://github.com/fabianferno/fabianferno/blob/main/name.gif?raw=true" width="50%" href="https://fabianferno.wordpress.com/" alt="hello">
+        <img src="https://user-images.githubusercontent.com/57835412/147380410-69adb2c1-1bab-4e74-b1e3-8ec121f65d7e.gif" width="50%" href="https://fabianferno.wordpress.com/" alt="hello">
         <img src="https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif"  width="20%"  alt="anime">
     </span>
 </center>
-<h2>&lt; Full Stack Engineer and IoT /&gt;&nbsp;&nbsp;|&nbsp;&nbsp;Open for Freelance ☕ </h2>
+<h2> Full Stack Engineer, IoT, Designer | DM for Freelance ☕ </h2>
 
 <br>
 
