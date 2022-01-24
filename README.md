@@ -4,7 +4,7 @@
         <img src="https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif"  width="20%"  alt="anime">
     </span>
 </center>
-<h2> I, Engineer ☕ </h2>
+<h2> I, Engineer ⚡ </h2>
 
 <br>
 
