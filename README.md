@@ -5,6 +5,8 @@
     </span>
 </center>
 
+
+##### I am a software engineer with 3 years of professional experience in developing & designing. I love building scalable, cross-platform, decentralized apps, IoT systems & multimedia. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology.
 ----
 
 <p style="display:flex;" align="left">
