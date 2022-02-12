@@ -16,42 +16,11 @@
 
 ---
 
-### Languages
+Currently Vibing to 🎧️
 
-`JavaScript - ES6` `Typescript` `Python` `C#` `C` `solidity` `Java` `php` `HTML` `CSS3/SASS` `Dart` 
+[![Spotify](https://skywalker-utilities.vercel.app/api/spotify)](https://open.spotify.com/user/pqfnzbkmew1e4y9o5r0uy83p6)
 
----
 
-### Databases
+### Keywords associated with me
 
-`Micrsoft SQL` `MariaDB` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firestore` `Redis` `HarperDB` 
-
----
-
-### Frameworks and Libraries
-
-`react.js` `express.js` `Flask` `ASP.NET` `next.js`
-
----
-
-### Utils
-
-`Axios` `jQuery` `styled-components` `Framer Motion` `ThreeJS` `RegEx` `Bootstrap UI` `Material UI` `Tailwind UI` 
-
----
-
-### Tools
-
-`Git` `Postman` `repl.it` `Cloudflare` `npm` `GitHub` `cPanel` `Apache` `SSH` `nginx` `Heroku` `Vercel` `Github Actions` `Linux ~ Ubuntu, Kali` `Supabase` `Firebase` `Selenium` `WSL` `discord.py` `celo network` `effect-sdk`
-
----
-
-### IoT
-
-`ArduinoIDE` `IFTTT` `MicroPython` `Embedded C` `NodeMCU` `MQTT`
-
----
-
-### Design
-
-`Wireframing` `Photoshop` `Illustrator` `InDesign` `Premiere Pro` `Adobe XD` `Filmora` `After Effects` `Cinema4D` `Sketchup3D` `Unity3D` `Unreal Engine` `Thearender`
+`JavaScript - ES6` `Typescript` `Python` `C#` `C` `solidity` `Java` `php` `HTML` `CSS3/SASS` `Dart` `Micrsoft SQL` `MariaDB` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firestore` `Redis` `HarperDB` `react.js` `express.js` `Flask` `ASP.NET` `next.js` `Axios` `jQuery` `styled-components` `Framer Motion` `ThreeJS` `RegEx` `Bootstrap UI` `Material UI` `Tailwind UI` `Git` `Postman` `repl.it` `Cloudflare` `npm` `GitHub` `cPanel` `Apache` `SSH` `nginx` `Heroku` `Vercel` `Github Actions` `Linux ~ Ubuntu, Kali` `Supabase` `Firebase` `Selenium` `WSL` `discord.py` `celo network` `effect-sdk` `ArduinoIDE` `IFTTT` `MicroPython` `Embedded C` `NodeMCU` `MQTT` `Wireframing` `Photoshop` `Illustrator` `InDesign` `Premiere Pro` `Adobe XD` `Filmora` `After Effects` `Cinema4D` `Sketchup3D` `Unity3D` `Unreal Engine` `Thearender`
