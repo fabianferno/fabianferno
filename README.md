@@ -14,12 +14,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="155">
 </p>
 
----
+----
 
 ### Currently Vibing to 🎧️
 
 [![Spotify](https://skywalker-utilities.vercel.app/api/spotify)](https://open.spotify.com/user/pqfnzbkmew1e4y9o5r0uy83p6)
 
+-----
 
 ### Keywords associated with Fabian Ferno ⚡️
 
