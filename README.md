@@ -42,7 +42,7 @@
 
 ----- 
 
-### Keywords 💻🌱
+### Skills 💻🌱
 <a href="https://fabianferno.com/">
     <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" height="300" />
 </a>
