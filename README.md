@@ -1,4 +1,11 @@
-<a href="https://fabianferno.com/"><img src="https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif" align="left" height="400" /></a>
+<a href="https://fabianferno.com/"><img src="https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s" align="left" height="400" /></a>
+
+<!---
+https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
+https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
+https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
+https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
+-->
 
 <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="45%" href="https://fabianferno.wordpress.com/" alt="hello">
 
@@ -21,7 +28,7 @@
 
 <br/>
 
-######  I am a software engineer with 3 years of professional experience in developing & designing. I love building scalable, cross-platform, decentralized apps, IoT systems & multimedia. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
+######  I am a full-stack engineer with 3 years of professional experience in developing & designing. I love building scalable, cross-platform, decentralized apps, IoT systems & multimedia. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
 
 
 #### Currently Vibing to 🎧️
