@@ -97,5 +97,7 @@
 ![blender](https://img.shields.io/badge/-blender-black?style=plastic&logo=blender)
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=plastic&logo=Unity3D)
 ![framer-motion](https://img.shields.io/badge/-framermotion-black?style=plastic&logo=FramerMotion)
- 
-![Profile Views](https://komarev.com/ghpvc/?username=fabianferno&color=red)
+
+-----
+
+<img src="https://komarev.com/ghpvc/?username=fabianferno&color=red" align="left"/>
