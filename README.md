@@ -48,7 +48,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 ### Skills 💻🌱
 <a href="https://fabianferno.com/">
-    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" height="300" />
+    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="50%" />
 </a>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
