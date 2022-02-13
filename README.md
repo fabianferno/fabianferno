@@ -25,7 +25,6 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
   <img align="left" alt="Fabian's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> 
 
-
 <br/>
 
 ######  I am a full-stack engineer with 3 years of professional experience in developing & designing. I love building scalable, cross-platform, decentralized apps, IoT systems & multimedia. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
@@ -46,62 +45,86 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 ----- 
 
-### Skills 💻🌱
 <a href="https://fabianferno.com/">
     <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="50%" />
 </a>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-![CSharp](https://img.shields.io/badge/-CSharp-black?style=plastic&logo=CSharp)
-![c](https://img.shields.io/badge/-c-black?style=plastic&logo=c)
-![dart](https://img.shields.io/badge/-dart-black?style=plastic&logo=dart)
-![solidity](https://img.shields.io/badge/-solidity-black?style=plastic&logo=solidity)
-![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
-![Web3](https://img.shields.io/badge/-Web3-black?style=plastic&logo=Web3)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
-![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.JS-black?style=plastic&logo=Next.js)
-![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=plastic&logo=Express.js)
-![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic&logo=amazon-aws)
-![GitHub Actions](https://img.shields.io/badge/-GitHubActions-black?style=plastic&logo=github-actions)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab)
-![Php](https://img.shields.io/badge/-php-black?style=plastic&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=plastic&logo=material-UI)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=tailwind)
-![Graphql](https://img.shields.io/badge/-Graphql-black?style=plastic&logo=Graphql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=plastic&logo=SQLServer)
-![Postman](https://img.shields.io/badge/-Postman-black?style=plastic&logo=Postman)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=plastic&logo=Cloudflare)
-![cPanel](https://img.shields.io/badge/-cPanel-black?style=plastic&logo=cPanel)
-![nginx](https://img.shields.io/badge/-nginx-black?style=plastic&logo=nginx)
-![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
-![linux](https://img.shields.io/badge/-linux-black?style=plastic&logo=linux)
-![ifttt](https://img.shields.io/badge/-ifttt-black?style=plastic&logo=ifttt)
-![heroku](https://img.shields.io/badge/-heroku-black?style=plastic&logo=heroku)
-![vercel](https://img.shields.io/badge/-vercel-black?style=plastic&logo=vercel)
-![selenium](https://img.shields.io/badge/-selenium-black?style=plastic&logo=selenium)
-![supabase](https://img.shields.io/badge/-supabase-black?style=plastic&logo=supabase) 
-![firebase](https://img.shields.io/badge/-firebase-black?style=plastic&logo=firebase) 
-![apache](https://img.shields.io/badge/-apache-black?style=plastic&logo=apache) 
-![arduino](https://img.shields.io/badge/-arduino-black?style=plastic&logo=arduino) 
-![figma](https://img.shields.io/badge/-figma-black?style=plastic&logo=figma)
-![illustrator](https://img.shields.io/badge/-illustrator-black?style=plastic&logo=illustrator) 
-![photoshop](https://img.shields.io/badge/-photoshop-black?style=plastic&logo=photoshop) 
-![sketchup](https://img.shields.io/badge/-sketchup-black?style=plastic&logo=sketchup) 
-![blender](https://img.shields.io/badge/-blender-black?style=plastic&logo=blender)
-![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=plastic&logo=Unity3D)
+<details>
+  <summary><b>Skills 💻🌱</b></summary>
+  <br/>
 
------
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+  ![CSharp](https://img.shields.io/badge/-CSharp-black?style=plastic&logo=CSharp)
+  ![c](https://img.shields.io/badge/-c-black?style=plastic&logo=c)
+  ![dart](https://img.shields.io/badge/-dart-black?style=plastic&logo=dart)
+  ![solidity](https://img.shields.io/badge/-solidity-black?style=plastic&logo=solidity)
+  ![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
+  ![Web3](https://img.shields.io/badge/-Web3-black?style=plastic&logo=Web3)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
+  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.JS-black?style=plastic&logo=Next.js)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=plastic&logo=Express.js)
+  ![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic&logo=amazon-aws)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-black?style=plastic&logo=github-actions)
+  ![GitLab](https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab)
+  ![Php](https://img.shields.io/badge/-php-black?style=plastic&logo=php)
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap)
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=plastic&logo=material-UI)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=tailwind)
+  ![Graphql](https://img.shields.io/badge/-Graphql-black?style=plastic&logo=Graphql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql)
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=plastic&logo=SQLServer)
+  ![Postman](https://img.shields.io/badge/-Postman-black?style=plastic&logo=Postman)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=plastic&logo=Cloudflare)
+  ![cPanel](https://img.shields.io/badge/-cPanel-black?style=plastic&logo=cPanel)
+  ![nginx](https://img.shields.io/badge/-nginx-black?style=plastic&logo=nginx)
+  ![npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
+  ![linux](https://img.shields.io/badge/-linux-black?style=plastic&logo=linux)
+  ![ifttt](https://img.shields.io/badge/-ifttt-black?style=plastic&logo=ifttt)
+  ![heroku](https://img.shields.io/badge/-heroku-black?style=plastic&logo=heroku)
+  ![vercel](https://img.shields.io/badge/-vercel-black?style=plastic&logo=vercel)
+  ![selenium](https://img.shields.io/badge/-selenium-black?style=plastic&logo=selenium)
+  ![supabase](https://img.shields.io/badge/-supabase-black?style=plastic&logo=supabase) 
+  ![firebase](https://img.shields.io/badge/-firebase-black?style=plastic&logo=firebase) 
+  ![apache](https://img.shields.io/badge/-apache-black?style=plastic&logo=apache) 
+  ![arduino](https://img.shields.io/badge/-arduino-black?style=plastic&logo=arduino) 
+  ![figma](https://img.shields.io/badge/-figma-black?style=plastic&logo=figma)
+  ![illustrator](https://img.shields.io/badge/-illustrator-black?style=plastic&logo=illustrator) 
+  ![photoshop](https://img.shields.io/badge/-photoshop-black?style=plastic&logo=photoshop) 
+  ![sketchup](https://img.shields.io/badge/-sketchup-black?style=plastic&logo=sketchup) 
+  ![blender](https://img.shields.io/badge/-blender-black?style=plastic&logo=blender)
+  ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=plastic&logo=Unity3D)
 
-<img src="https://komarev.com/ghpvc/?username=fabianferno&color=red" align="left"/>
+</details> 
+
+<details>
+  <summary><b>Know More ⚡️</b></summary>
+  <br/>
+  I've built many apps and have had the opportunity to work on a lot of things. Check out my portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
+</details>
+
+<details>
+  <summary><b>Reach out 🤞</b></summary>
+  <br/>
+  I like connecting with new people. So I'm up for anything you'd like to say to me. Write to <a href="mailto:hi@fabianferno.com">hi@fabianferno.com</a>
+</details>
+
+<div align="left">
+
+#### Like My Work?
+
+<a href="https://www.buymeacoffee.com/fabianferno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" align="left"/>
+
