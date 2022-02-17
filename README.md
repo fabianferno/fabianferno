@@ -27,7 +27,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 <br/>
 
-######  I am a full-stack engineer with 3 years of professional experience in developing & designing. I love building scalable, cross-platform, decentralized apps, IoT systems & multimedia. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
+######  I am a full-stack engineer with 3 years of professional experience in developing & designing. I love building scalable, cross-platform, decentralized apps, IoT systems & working on multimedia. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
 
 
 #### Currently Vibing to 🎧️
