@@ -1,4 +1,4 @@
-<a href="https://fabianferno.com/"><img src="https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp" align="left" height="400" /></a>
+<a href="https://fabianferno.com/"><img src="https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif" align="left" height="400" /></a>
 
 <!---
 https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
