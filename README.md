@@ -115,24 +115,27 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 <details>
   <summary><b>Know More ⚡️</b></summary>
   <br/>
-  I've built many apps and have had the opportunity to work on a lot of things. Check out my portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
+  Over the years I've built many apps and have had the opportunity to work on a lot of things. Check out my complete portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
 </details>
 
 <details>
   <summary><b>Reach out 🤞</b></summary>
   <br/>
-  I like connecting with new people. So I'm up for anything you'd like to say to me. Write to <a href="mailto:hi@fabianferno.com">hi@fabianferno.com</a>
+  I like connecting with new people. So I'm all ears for anything you'd like to say to me. Write to me at <a href="mailto:hi@fabianferno.com">hi@fabianferno.com</a>
 </details>
 
 <div align="left">
   <a href="https://www.buymeacoffee.com/fabianferno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
  
-  ### Wire me Crypto  
+</div>
+
+<details>
+  <summary><b>Wire me Crypto 🦝</b></summary>
+ 
   ```
   0x64574dDbe98813b23364704e0B00E2e71fC5aD17
   ```
-  
-</div>
+</details>
 
-<img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" align="right"/>
+<img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" align="left"/>
 
