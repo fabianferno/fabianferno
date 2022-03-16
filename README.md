@@ -21,9 +21,6 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 <a href="https://www.instagram.com/super.skywalker/">
   <img align="left" alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" />
 </a>
-<a href="https://open.spotify.com/user/pqfnzbkmew1e4y9o5r0uy83p6">
-  <img align="left" alt="Fabian's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> 
 
 <br/>
 
