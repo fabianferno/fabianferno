@@ -1,4 +1,4 @@
-<a href="https://fabianferno.com/"><img src="https://media1.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif?cid=ecf05e473461qhwuy3m4a54x9x97g0evxiwgcm2l9qrtq38t&rid=giphy.gif&ct=s" align="left" height="390" /></a>
+<a href="https://fabianferno.com/"><img src="https://media1.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif?cid=ecf05e473461qhwuy3m4a54x9x97g0evxiwgcm2l9qrtq38t&rid=giphy.gif&ct=s" align="left" height="360" /></a>
 
 <!---
 https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
