@@ -24,7 +24,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 <br/>
 
-######  A sentient engineer who likes to talk tech and building scalable, cross-platform, decentralised apps & SaaS products. Currently probing IoT and the Web3. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
+######  A sentient engineer who likes talking tech and building scalable, cross-platform, decentralised apps & SaaS products. Currently probing IoT and the Web3. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
 
 
 #### Currently Vibing to 🎧️
