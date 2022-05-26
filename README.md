@@ -1,4 +1,8 @@
-<a href="https://fabianferno.com/"><img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" align="left" height="430" /></a>
+<div align="center">
+  <a href="https://www.fabianferno.com/">
+    <img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" height="300px" />
+  </a>
+</div>
 
 <!---
 https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
@@ -7,24 +11,35 @@ https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
 https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
 -->
 
-<img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="50%" href="https://fabianferno.com/" alt="hello">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="450px" alt="fabianferno">
+</div>
 
-<a href="https://discord.com/channels/@me/299152387728343043">
-  <img align="left" alt="Fabian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/fabianferno">
-  <img align="left" alt="Fabian Ferno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/fabianferno/">
-  <img align="left" alt="Fabian Ferno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/super.skywalker/">
-  <img align="left" alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" />
-</a>
+-----
 
-<br/>
+<div align="center">
+A sentient engineer who likes talking tech and building scalable, cross-platform, decentralised apps & SaaS products. Currently probing IoT and the Web3. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
+</div>
 
-######  A sentient engineer who likes talking tech and building scalable, cross-platform, decentralised apps & SaaS products. Currently probing IoT and the Web3. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
+#### REACH
+
+<div align="left">
+  <a href="https://discord.com/channels/@me/299152387728343043">
+    <img alt="Fabian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>
+  
+  <a href="https://twitter.com/fabianferno">
+    <img alt="Fabian Ferno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/fabianferno/">
+    <img alt="Fabian Ferno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  
+  <a href="https://www.instagram.com/super.skywalker/">
+    <img alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" />
+  </a>
+</div>
 
 
 #### Currently Vibing to 🎧️
