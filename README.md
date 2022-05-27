@@ -1,29 +1,5 @@
-<div align="center">
-  <a href="https://www.fabianferno.com/">
-    <img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" height="300px" />
-  </a>
-</div>
 
-<!---
-https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
-https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
-https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
-https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
--->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="450px" alt="fabianferno">
-</div>
-
------
-
-<div align="center">
-A sentient engineer who likes talking tech and building scalable, cross-platform, decentralised apps & SaaS products. Currently probing IoT and the Web3. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
-</div>
-
-#### REACH
-
-<div align="left">
+<div align="right">
   <a href="https://discord.com/channels/@me/299152387728343043">
     <img alt="Fabian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
@@ -42,24 +18,59 @@ A sentient engineer who likes talking tech and building scalable, cross-platform
 </div>
 
 
-#### Currently Vibing to 🎧️
+<div align="left">
+  <a href="https://www.fabianferno.com/">
+    <img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" height="300px" />
+  </a>
+</div>
 
-[![Spotify](https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f)](https://open.spotify.com/user/pqfnzbkmew1e4y9o5r0uy83p6)
+<!---
+https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
+https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
+https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
+https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
+-->
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="450px" alt="fabianferno">
+</div>
 
 -----
 
-### My GitHub Stats 🚀
+<div align="left">
+A sentient engineer who likes talking tech and building scalable, cross-platform, decentralised apps & SaaS products. Currently probing IoT and the Web3. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
+</div>
 
-<p style="display:flex;" align="left">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=blux&&background=0d1117&border=444" height="155">
-    <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="155">
-</p>
+<br />
+ 
+<div align="left"> 
+  
+  #### Currently Vibing to 🎧️ 
+  
+</div>
+
+<div align="left">
+  
+[![Spotify](https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f)](https://open.spotify.com/user/pqfnzbkmew1e4y9o5r0uy83p6)
+  
+</div>
+
+-----
+
+<div align="left"> 
+  
+  #### My GitHub Stats 🚀 
+  
+</div>
+
+<div align="left">
+  <p style="display:flex;">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=blux&&background=0d1117&border=444" height="155">
+      <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="155">
+  </p>
+</div>
 
 ----- 
-
-<a href="https://fabianferno.com/">
-    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="50%" />
-</a>
 
 <details>
   <summary><b>Skills 💻🌱</b></summary>
@@ -113,8 +124,8 @@ A sentient engineer who likes talking tech and building scalable, cross-platform
   ![vercel](https://img.shields.io/badge/-vercel-black?style=plastic&logo=vercel)
   ![selenium](https://img.shields.io/badge/-selenium-black?style=plastic&logo=selenium)
   ![supabase](https://img.shields.io/badge/-supabase-black?style=plastic&logo=supabase) 
-  ![firebase](https://img.shields.io/badge/-firebase-black?style=plastic&logo=firebase)  
-  ![arduino](https://img.shields.io/badge/-arduino-black?style=plastic&logo=arduino) 
+  ![firebase](https://img.shields.io/badge/-firebase-black?style=plastic&logo=firebase)
+  ![arduino](https://img.shields.io/badge/-arduino-black?style=plastic&logo=arduino)
   ![figma](https://img.shields.io/badge/-figma-black?style=plastic&logo=figma)
   ![illustrator](https://img.shields.io/badge/-illustrator-black?style=plastic&logo=adobe) 
   ![photoshop](https://img.shields.io/badge/-photoshop-black?style=plastic&logo=adobe) 
@@ -153,6 +164,10 @@ A sentient engineer who likes talking tech and building scalable, cross-platform
   ```
  
 </details>
+
+<a href="https://fabianferno.com/">
+    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="500px" />
+</a>
 
 
 <br/>
