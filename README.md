@@ -38,7 +38,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 -----
 
 <div align="left">
-A sentient engineer who likes talking tech and building scalable, cross-platform, decentralised apps & SaaS products. Currently probing IoT and the Web3. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology. 
+A sentient engineer who loves talking tech and building scalable, cross-platform, decentralised apps and SaaS products. Dabbling with IoT and the Web3 ecosystem. Co-founded Pattarai - a tech community with more than 650 members. Currently, helping accelerate the world’s adoption of NFTs and cryptocurrency as an asset class of their own at NFTconomy.
 </div>
 
 <br />
