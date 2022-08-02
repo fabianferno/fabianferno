@@ -124,32 +124,19 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 <details>
   <summary><b>Know More ⚡️</b></summary>
   <br/>
-  Over the years I've built many apps and have had the opportunity to work on a lot of things. Check out my complete portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
+  Over the years I've built many apps and have had the opportunity to work on a lot of things. <br/> Check out my complete portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
 </details>
 
 <details>
   <summary><b>Reach out 🤞</b></summary>
   <br/>
-  I like connecting with people. So I'm all ears for anything you'd like to say to me. Write to me at <a href="mailto:hi@fabianferno.com">hi@fabianferno.com</a>
-  
-  
-<div align="">
-  <a href="https://discord.com/channels/@me/299152387728343043" >
-    <img alt="Fabian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  I like connecting with people. So I'm all ears for anything you'd like to say to me. <br> Write to me at <a href="mailto:hi@fabianferno.com">hi@fabianferno.com</a>
+  <br/>
+  <a href="https://www.linkedin.com/in/fabianferno/"><img alt="Fabian Ferno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a> <a href="https://www.instagram.com/super.skywalker/"><img alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" /></a>
+  <a href="https://discord.com/channels/@me/299152387728343043"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> <a href="https://twitter.com/fabianferno"><img width="22px" src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg' />
   </a> 
-  
-  <a href="https://twitter.com/fabianferno">
-    <img alt="Fabian Ferno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>  
-  
-  <a href="https://www.linkedin.com/in/fabianferno/">
-    <img alt="Fabian Ferno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a> 
-  
-  <a href="https://www.instagram.com/super.skywalker/">
-    <img alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" />
-  </a>  
-</div>
+ 
 </details>
 
 <details>
