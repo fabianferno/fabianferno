@@ -1,21 +1,4 @@
 
-<div align="right">
-  <a href="https://discord.com/channels/@me/299152387728343043">
-    <img alt="Fabian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  
-  <a href="https://twitter.com/fabianferno">
-    <img alt="Fabian Ferno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/fabianferno/">
-    <img alt="Fabian Ferno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-  
-  <a href="https://www.instagram.com/super.skywalker/">
-    <img alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" />
-  </a>
-</div>
 
 
 <div align="left">
@@ -33,6 +16,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="450px" alt="fabianferno">
+
 </div>
 
 -----
@@ -71,6 +55,8 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 </div>
 
 ----- 
+
+
 <div align="right">
 <details>
   <summary><b>📈💻🌱</b></summary>
@@ -145,6 +131,25 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
   <summary><b>Reach out 🤞</b></summary>
   <br/>
   I like connecting with people. So I'm all ears for anything you'd like to say to me. Write to me at <a href="mailto:hi@fabianferno.com">hi@fabianferno.com</a>
+  
+  
+<div align="">
+  <a href="https://discord.com/channels/@me/299152387728343043" >
+    <img alt="Fabian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a> 
+  
+  <a href="https://twitter.com/fabianferno">
+    <img alt="Fabian Ferno | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>  
+  
+  <a href="https://www.linkedin.com/in/fabianferno/">
+    <img alt="Fabian Ferno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a> 
+  
+  <a href="https://www.instagram.com/super.skywalker/">
+    <img alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" />
+  </a>  
+</div>
 </details>
 
 <details>
@@ -172,5 +177,6 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 
 
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" align="left"/>
 
