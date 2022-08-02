@@ -71,7 +71,7 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 </div>
 
 ----- 
-
+<div align="right">
 <details>
   <summary><b>📈💻🌱</b></summary>
   <br/>
@@ -164,9 +164,10 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
   ```
  
 </details>
+</div>
 
 <a href="https://fabianferno.com/">
-    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="500px" />
+    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="400px" />
 </a>
 
 
