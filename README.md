@@ -73,7 +73,7 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 ----- 
 
 <details>
-  <summary><b>Skills 💻🌱</b></summary>
+  <summary><b>📈💻🌱</b></summary>
   <br/>
 
   ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
