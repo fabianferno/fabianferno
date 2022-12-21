@@ -1,39 +1,39 @@
 
 
 
-<div align="left">
-  <a href="https://www.fabianferno.com/">
-    <img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" height="300px" />
+<div align="center">
+  <a href="https://www.fabianferno.com/"> 
+    <img src="https://media0.giphy.com/media/Vf7xXFwzlseWRCYWdl/giphy.gif?cid=ecf05e47tl9b4babd4lgfl4nz80f9l2ven3etddl4mjdyvmp&rid=giphy.gif&ct=s" height="200px" /> 
   </a>
 </div>
 
 <!---
+https://media0.giphy.com/media/Vf7xXFwzlseWRCYWdl/giphy.gif?cid=ecf05e47tl9b4babd4lgfl4nz80f9l2ven3etddl4mjdyvmp&rid=giphy.gif&ct=s
 https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
 https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
 https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
 https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
 -->
 
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="450px" alt="fabianferno">
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="350px" alt="fabianferno">
 </div>
 
 -----
 
-<div align="left">
-A sentient engineer who loves talking tech and building scalable, cross-platform, decentralised apps and SaaS products. Dabbling with IoT and the Web3 ecosystem. Co-founded Pattarai - a tech community with more than 650 members. Currently, helping accelerate the world’s adoption of NFTs and cryptocurrency as an asset class of their own at NFTconomy.
+<div align="center">
+A sentient engineer who loves talking tech and building scalable, cross-platform, decentralised apps and SaaS products. Dabbling with IoT and the Web3 ecosystem.  Currently, helping accelerate the world’s adoption of NFTs and cryptocurrency as an asset class of their own at BlitzCraftHQ.
 </div>
 
 <br />
  
-<div align="left"> 
+<div align="center"> 
   
   #### Currently Vibing to 🎧️ 
   
 </div>
 
-<div align="left">
+<div align="center">
   
 [![Spotify](https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f)](https://open.spotify.com/user/pqfnzbkmew1e4y9o5r0uy83p6)
   
@@ -41,13 +41,13 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 
 -----
 
-<div align="left"> 
+<div align="center"> 
   
   #### My GitHub Stats 🚀 
   
 </div>
 
-<div align="left">
+<div align="center">
   <p style="display:flex;">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=blux&&background=0d1117&border=444" height="155">
       <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="155">
@@ -57,7 +57,7 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 ----- 
 
 
-<div align="right">
+<div align="center">
 <details>
   <summary><b>📈💻🌱</b></summary>
   <br/>
@@ -141,7 +141,7 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 
 <details>
   <summary><b>Buy me a Coffee ☕️</b></summary>
-  <div align="left">
+  <div align="center">
     <br/>
     <a href="https://www.buymeacoffee.com/fabianferno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
   </div>
@@ -158,12 +158,13 @@ A sentient engineer who loves talking tech and building scalable, cross-platform
 </details>
 </div>
 
-<a href="https://fabianferno.com/">
-    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="400px" />
-</a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" width="140px"/>
+  
+  <br/>
+  <br/>
+  
+  <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" width="250px" />
+</div>
 
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" align="left"/>
 
