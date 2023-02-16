@@ -15,8 +15,8 @@ https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
 https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
 -->
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/57835412/150765857-4d822697-4810-4761-acdf-c19ee0748dcb.gif" width="350px" alt="fabianferno">
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/57835412/219349596-b91aa724-b9da-4c5c-8edd-8920052c7bee.gif" width="350px" alt="fabianferno">  
 </div>
 
 -----
@@ -29,7 +29,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
  
 <div align="center"> 
   
-  #### Currently Vibing to 🎧️ 
+  #### Currently vibing to 🎧️ 
   
 </div>
 
@@ -43,18 +43,17 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 <div align="center"> 
   
-  #### My GitHub Stats 🚀 
+  #### Some geek stats 🚀 
   
 </div>
 
 <div align="center">
-  <p style="display:flex;">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=blux&&background=0d1117&border=444" height="155">
-      <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="155">
+  <p style="display:flex;"> 
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=android-dark&hide_border=true&border_radius=15" height="155">
+      <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=3cda83&icon_color=3cda83&bg_color=000000&text_color=FFF&count_private=true&theme=android-dark&hide_border=true&border_radius=15" height="155">
   </p>
 </div>
-
------ 
+ 
 
 
 <div align="center">
@@ -124,6 +123,8 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 <details>
   <summary><b>Know More ⚡️</b></summary>
   <br/>
+    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" width="250px" />
+ 
   Over the years I've built many apps and have had the opportunity to work on a lot of things. <br/> Check out my complete portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
 </details>
 
@@ -145,11 +146,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 </details>
 </div>
 
-<div align="center">
-  <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" width="250px" />
- 
-  
-  <br/>
+<div align="center"> 
   <br/>
    <img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" width="140px"/>
 </div>
