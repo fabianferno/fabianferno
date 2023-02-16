@@ -130,25 +130,12 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 <details>
   <summary><b>Reach out 🤞</b></summary>
   <br/>
-  I like connecting with people. So I'm all ears for anything you'd like to say to me. <br> Write to me at <a href="mailto:hi@fabianferno.com">hi@fabianferno.com</a>
-  <br/>
-  <a href="https://www.linkedin.com/in/fabianferno/"><img alt="Fabian Ferno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a> <a href="https://www.instagram.com/super.skywalker/"><img alt="Fabian's Instagram" width="22px" src="https://user-images.githubusercontent.com/57835412/153722208-5cc3550e-209d-439f-ab75-b16f6d8b94bb.png" /></a>
-  <a href="https://discord.com/channels/@me/299152387728343043"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> <a href="https://twitter.com/fabianferno"><img width="22px" src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg' />
-  </a> 
- 
+  I like connecting with people. So I'm all ears for anything you'd like to say to me. <br> Write to me at <a href="mailto:hello@fabianferno.com">hello@fabianferno.com</a>  
 </details>
 
-<details>
-  <summary><b>Buy me a Coffee ☕️</b></summary>
-  <div align="center">
-    <br/>
-    <a href="https://www.buymeacoffee.com/fabianferno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-  </div>
-</details>
 
 <details>
-  <summary><b>Wire me Crypto 🦝</b></summary>
+  <summary><b>Crypto at fabianferno.eth 🦝</b></summary>
   <br/> 
    
   ```
@@ -159,12 +146,12 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" width="140px"/>
-  
-  <br/>
-  <br/>
-  
   <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" width="250px" />
+ 
+  
+  <br/>
+  <br/>
+   <img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" width="140px"/>
 </div>
 
 
