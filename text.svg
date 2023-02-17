@@ -4,7 +4,9 @@
             <style>
                p {
                 font-size: 10px;
-                }
+                color: white;
+                font-family: sans-serif;
+            }
             </style>
             <p>"I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI</p>
         </div>
