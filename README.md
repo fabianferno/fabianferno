@@ -4,17 +4,18 @@
 <div align="left">
  <div>
     <a href="https://www.fabianferno.com/"> 
-    <img src="https://media0.giphy.com/media/Vf7xXFwzlseWRCYWdl/giphy.gif?cid=ecf05e47tl9b4babd4lgfl4nz80f9l2ven3etddl4mjdyvmp&rid=giphy.gif&ct=s" height="300px" /> 
+    <img src="https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif" height="250px" /> 
   </a>
-  </div>
+  </div> 
  
-
+ 
+ <br/>
 <!---
 https://media0.giphy.com/media/Vf7xXFwzlseWRCYWdl/giphy.gif?cid=ecf05e47tl9b4babd4lgfl4nz80f9l2ven3etddl4mjdyvmp&rid=giphy.gif&ct=s
 https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
 https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
 https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
-https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
+https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s 
 -->
  
   <img src="https://user-images.githubusercontent.com/57835412/219349596-b91aa724-b9da-4c5c-8edd-8920052c7bee.gif" width="350px" alt="fabianferno">  
@@ -22,14 +23,9 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 -----
 
 
-"I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI
- 
-
-<br />
- 
- 
+"I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI 
   
-  #### Currently vibing to 🎧️ 
+  #### Currently listening to 🎧️ 
  
  <img src="https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f" height="100px"/>
 
