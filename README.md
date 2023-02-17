@@ -23,7 +23,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 
 "I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI
- <img src="text.svg"  alt="fabianferno">  
+ 
 
 <br />
  
