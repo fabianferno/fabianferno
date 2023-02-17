@@ -11,23 +11,20 @@
 
 "I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI 
   
-  #### Currently listening to 🎧️ 
  
- <img src="https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f" height="100px"/>
+  
+  <p style="display:flex;"> 
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=android-dark&hide_border=true&border_radius=15" height="140">
+      <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=3cda83&icon_color=3cda83&bg_color=000000&text_color=FFF&count_private=true&theme=android-dark&hide_border=true&border_radius=15" height="140">
+  </p>
 
 -----
-
  
-  
-  
  
 <details>
-  <summary><b>Geek stats 📊</b></summary>
+  <summary><b>Currently listening to 🎧️</b></summary>
   <br/>
-   <p style="display:flex;"> 
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=android-dark&hide_border=true&border_radius=15" height="130">
-      <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=3cda83&icon_color=3cda83&bg_color=000000&text_color=FFF&count_private=true&theme=android-dark&hide_border=true&border_radius=15" height="130">
-  </p>
+   <img src="https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f" height="100px"/>
 </details>
 
  
