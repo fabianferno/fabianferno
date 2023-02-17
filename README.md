@@ -19,15 +19,19 @@
 
  
   
-  #### Some geek stats 🚀 
   
  
-
- 
-  <p style="display:flex;"> 
+<details>
+  <summary><b>Geek stats 📊</b></summary>
+  <br/>
+   <p style="display:flex;"> 
       <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=android-dark&hide_border=true&border_radius=15" height="130">
       <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=3cda83&icon_color=3cda83&bg_color=000000&text_color=FFF&count_private=true&theme=android-dark&hide_border=true&border_radius=15" height="130">
   </p>
+</details>
+
+ 
+  
  
  
 
