@@ -2,21 +2,11 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: #3cda83;
-                animation: mymove 2s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: #3cda83;
+               p {
+                font-size: 10px;
                 }
-                to {
-                    color: #24824E;
-                }
-            }
             </style>
-            <h1>Fabian Ferno</h1>
+            <p>"I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI</p>
         </div>
     </foreignObject>
 </svg>
