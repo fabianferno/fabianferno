@@ -1,11 +1,13 @@
 
 
 
-<div align="center">
-  <a href="https://www.fabianferno.com/"> 
-    <img src="https://media0.giphy.com/media/Vf7xXFwzlseWRCYWdl/giphy.gif?cid=ecf05e47tl9b4babd4lgfl4nz80f9l2ven3etddl4mjdyvmp&rid=giphy.gif&ct=s" height="200px" /> 
+<div align="left">
+ <div>
+    <a href="https://www.fabianferno.com/"> 
+    <img src="https://media0.giphy.com/media/Vf7xXFwzlseWRCYWdl/giphy.gif?cid=ecf05e47tl9b4babd4lgfl4nz80f9l2ven3etddl4mjdyvmp&rid=giphy.gif&ct=s" height="300px" /> 
   </a>
-</div>
+  </div>
+ 
 
 <!---
 https://media0.giphy.com/media/Vf7xXFwzlseWRCYWdl/giphy.gif?cid=ecf05e47tl9b4babd4lgfl4nz80f9l2ven3etddl4mjdyvmp&rid=giphy.gif&ct=s
@@ -14,49 +16,41 @@ https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
 https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
 https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
 -->
-
-<div align="center"> 
+ 
   <img src="https://user-images.githubusercontent.com/57835412/219349596-b91aa724-b9da-4c5c-8edd-8920052c7bee.gif" width="350px" alt="fabianferno">  
-</div>
-
+ 
 -----
 
-<div align="center">
+ 
 "I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI
-</div>
+
 
 <br />
  
-<div align="center"> 
+ 
   
   #### Currently vibing to 🎧️ 
-  
-</div>
-
-<div align="center">
-  
-[![Spotify](https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f)](https://open.spotify.com/user/pqfnzbkmew1e4y9o5r0uy83p6)
-  
-</div>
+ 
+ <img src="https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f" height="100px"/>
 
 -----
 
-<div align="center"> 
+ 
   
   #### Some geek stats 🚀 
   
-</div>
+ 
 
-<div align="center">
+ 
   <p style="display:flex;"> 
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=android-dark&hide_border=true&border_radius=15" height="155">
-      <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=3cda83&icon_color=3cda83&bg_color=000000&text_color=FFF&count_private=true&theme=android-dark&hide_border=true&border_radius=15" height="155">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=android-dark&hide_border=true&border_radius=15" height="130">
+      <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=3cda83&icon_color=3cda83&bg_color=000000&text_color=FFF&count_private=true&theme=android-dark&hide_border=true&border_radius=15" height="130">
   </p>
-</div>
+ 
  
 
 
-<div align="center">
+ 
 <details>
   <summary><b>📈💻🌱</b></summary>
   <br/>
@@ -144,9 +138,8 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
   ```
  
 </details>
-</div>
-
-<div align="center"> 
+ 
+ 
   <br/>
    <img src="https://komarev.com/ghpvc/?username=fabianferno&color=blue" width="140px"/>
 </div>
