@@ -102,7 +102,7 @@
   <br/>
     <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" width="250px" />
  
-  Over the years I've built many apps and have had the opportunity to work on a lot of things. <br/> Check out my complete portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
+  Over the years I've built many apps and have had the opportunity to work on a lot of projects. <br/> Check out my complete portfolio at <a href="https://www.fabianferno.com">fabianferno.com</a>
 </details>
 
 <details>
