@@ -9,7 +9,7 @@
 -----
 
 
-"I'm an engineer who loves nothing more than building killer apps and products that work across platforms. I'm also really into IoT and the Web3 ecosystem, and I'm always looking for new ways to use them to change the game. Right now, I'm helping to make NFTs and cryptocurrency mainstream at BlitzCraftHQ. When I'm not working, you can catch me talking tech and brainstorming about the future. Basically, I'm a geek and I'm okay with that." - ChatGPT, OpenAI 
+Versatile Entrepreneur/Engineer with an extensive background in building scalable SaaS products & the web3 space. Proficient in multiple programming languages & frameworks, while leading & collaborating with diverse teams. Specialised in architecting scalable microservices & blockchain aggregators. Streamlining product development, marketing, partnerships, delivery & scaling at BlitzCraft. Committed to driving innovation & growth in web3. 
   
  
   
