@@ -123,17 +123,6 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
   <br/>
   I like connecting with people. So I'm all ears for anything you'd like to say to me. <br> Write to me at <a href="mailto:hello@fabianferno.com">hello@fabianferno.com</a>  
 </details>
-
-
-<details>
-  <summary><b>Crypto at fabianferno.eth 🦝</b></summary>
-  <br/> 
-   
-  ```
-    0x64574dDbe98813b23364704e0B00E2e71fC5aD17
-  ```
- 
-</details>
  
  
   <br/>
