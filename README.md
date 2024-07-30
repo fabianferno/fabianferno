@@ -9,8 +9,9 @@
 -----
 
 
-Versatile Entrepreneur/Engineer with an extensive background in building scalable SaaS products & the web3 space. Proficient in multiple programming languages & frameworks, while leading & collaborating with diverse teams. Specialised in architecting scalable microservices & blockchain aggregators. Streamlining product development, marketing, partnerships, delivery & scaling at BlitzCraft. Committed to driving innovation & growth in web3. 
-  
+Traveller, Engineer, Entrepreneur. Driven by a fervent passion for technology, I spend most of my time building next-gen software products and solutions for businesses.
+
+P.S And at times when I'm not doing the above, you're most likely to find me in hackathons, devcons and meetups hacking/talking with people. Don't be shy to come say Hi! 
  
   
   <p style="display:flex;"> 
