@@ -14,8 +14,7 @@ Traveller, Engineer, Entrepreneur. Driven by a fervent passion for technology, I
 P.S And at times when I'm not doing the above, you're most likely to find me in hackathons, devcons and meetups hacking/talking with people. Don't be shy to come say Hi! 
  
   
-  <p style="display:flex;"> 
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianferno&theme=android-dark&hide_border=true&border_radius=15" height="140">
+  <p style="display:flex;">  
       <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=3cda83&icon_color=3cda83&bg_color=000000&text_color=FFF&count_private=true&theme=android-dark&hide_border=true&border_radius=15" height="140">
   </p>
 
